@@ -1,8 +1,8 @@
 {
-  "name": "ai-net-backend",
+  "name": "agentmesh-backend",
   "private": true,
   "version": "0.1.0",
-  "description": "ai-net backend — Node.js/TypeScript server bridging frontend, agent runtime, Stellar payments, and Venice AI.",
+  "description": "AgentMesh backend — Node.js/TypeScript server for agent orchestration, incentives, and AI task execution.",
   "main": "dist/src/index.js",
   "scripts": {
     "build": "tsc -p tsconfig.json && node scripts/copy-migrations.js",

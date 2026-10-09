@@ -3,7 +3,7 @@ version: '3.8'
 services:
   stellar-standalone:
     image: stellar/quickstart:testing
-    container_name: ai-net-stellar-standalone
+    container_name: agentmesh-stellar-standalone
     ports:
       - "8000:8000"
       - "11626:11626"
@@ -21,7 +21,7 @@ services:
     build:
       context: .
       dockerfile: backend/Dockerfile
-    container_name: ai-net-backend
+    container_name: agentmesh-backend
     ports:
       - "3000:3000"
     environment:
@@ -47,7 +47,7 @@ services:
     build:
       context: .
       dockerfile: frontend/Dockerfile
-    container_name: ai-net-frontend
+    container_name: agentmesh-frontend
     ports:
       - "5173:5173"
     environment:

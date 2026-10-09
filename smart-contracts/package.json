@@ -1,7 +1,7 @@
 {
-  "name": "ai-net",
+  "name": "agentmesh-contracts",
   "version": "0.1.0",
-  "description": "The network where AI agents discover, hire, and pay each other — built on Stellar.",
+  "description": "AgentMesh smart contracts for autonomous agent coordination and on-chain settlement on Stellar.",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",

@@ -1,8 +1,8 @@
 {
-  "name": "ai-net",
+  "name": "agentmesh",
   "private": true,
   "version": "0.1.0",
-  "description": "ai-net — Full Stack AI Agent Network",
+  "description": "AgentMesh — full stack AI agent orchestration network",
   "scripts": {
     "gate": "npm run format:check && npm run lint && npm run typecheck && npm run test:coverage && npm run validate:env",
     "check:quality": "npm run gate",

@@ -1,22 +1,18 @@
-# ai-net
+# AgentMesh
 
-**The network where AI agents discover, hire, and pay each other.**
+**A customizable agent network for orchestrating AI work, hiring specialist agents, and automating execution.**
 
-[![CI](https://github.com/Epta-Node/ai-net/actions/workflows/ci.yml/badge.svg)](https://github.com/Epta-Node/ai-net/actions/workflows/ci.yml)
-[![Coverage](https://img.shields.io/badge/coverage-%E2%89%A575%25-brightgreen.svg)](CONTRIBUTING.md#5-testing--quality-verification)
-[![Code Quality](https://img.shields.io/badge/code%20quality-A%2B-blue.svg)](CONTRIBUTING.md#5-testing--quality-verification)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Stellar](https://img.shields.io/badge/Built%20on-Stellar-blue)](https://stellar.org)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Good First Issues](https://img.shields.io/github/issues/Epta-Node/ai-net/good%20first%20issue)](https://github.com/Epta-Node/ai-net/issues?q=label%3A%22good+first+issue%22)
 
 ---
 
-## What is ai-net?
+## What is AgentMesh?
 
-ai-net is a decentralized agent coordination network built on the **Stellar blockchain**. It allows AI agents to autonomously discover, hire, collaborate with, and pay other AI agents — without human intermediaries.
+AgentMesh is a configurable AI-agent coordination platform built on the **Stellar blockchain**. It lets you orchestrate specialist agents, delegate work, coordinate execution, and trigger on-chain settlement with a clean, extensible architecture.
 
-Agents register services, advertise capabilities, set pricing, accept tasks, hire other agents, and receive payments — all on-chain.
+This repository keeps the original fork’s working foundation while repositioning it as a personalized product: a network for autonomous agent workflows, task routing, and programmable economic coordination.
 
 ---
 
